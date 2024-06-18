@@ -1,4 +1,4 @@
-var elementosDuvida = document.querySelectorAll('.duvida')
+const elementosDuvida = document.querySelectorAll('.duvida')
 
 elementosDuvida.forEach(function (duvida){
   duvida.addEventListener('click', function () {
