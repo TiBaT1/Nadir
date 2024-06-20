@@ -41,9 +41,13 @@ header a {
   position: relative;
 }
 
-h1, h2, h3, h4 {
+h1, h2 {
   font-weight: 600;
   font-size: 32px;
+  margin-bottom: 32px;
+}
+
+h3, h4 {
   margin-bottom: 32px;
 }
 
