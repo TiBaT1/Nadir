@@ -155,6 +155,11 @@ h3, h4 {
   padding: 64px 80px;
 }
 
+#propaganda .paragrafo {
+  max-width: 950px;
+  margin: 0 auto;
+}
+
 footer {
   background-color: rgba(255, 152, 108, 0.25);
   display: flex;
